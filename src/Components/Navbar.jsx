@@ -9,9 +9,7 @@ const Navbar = () => {
         <div className="left-logo">
           <img src={knohalogo} alt="" />
         </div>
-        <div className="logo">
-          <img src={Narutologoimg} alt="logo" />
-        </div>
+        
         <div className="menu-bar">
           
         </div>
